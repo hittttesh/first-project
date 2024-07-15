@@ -1,0 +1,12 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+*{
+    background-color: #FEFBD8;
+}
+.color-title{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
